@@ -2,3 +2,7 @@ git init -  Inicializa o repositório local para verificar as mudanças que iram
 git status - Verifica o status dos arquivos alterados ou criados
 git status -s - Mostra como o arquivo está na stayging área
 git add (nome do arquivo e tipo) - Adiciona o arquivo ao repositório / git add . - Adiciona todos os arquivos ao repositórios sejam modificados ou criados
+git commit -m "" - Envia as alterações ou arquivo pro repositório remoto ("Mensagem breve")
+git config user.email "" - Configura o e-mail para utilizar o repositório do GitHub ("e-mail do GitHub")
+git log - Mostra o que foi feito / git log --oneline - Mostra os commits em uma linha só 
+git --ammend -m "" - Corrigi a mensagem do ultimo commit localmente
