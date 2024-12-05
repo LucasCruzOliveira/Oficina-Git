@@ -1,0 +1,4 @@
+git init -  Inicializa o repositório local para verificar as mudanças que iram ser feitas
+git status - Verifica o status dos arquivos alterados ou criados
+git status -s - Mostra como o arquivo está na stayging área
+git add (nome do arquivo e tipo) - Adiciona o arquivo ao repositório / git add . - Adiciona todos os arquivos ao repositórios sejam modificados ou criados
