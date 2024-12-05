@@ -6,3 +6,5 @@ git commit -m "" - Envia as alterações ou arquivo pro repositório remoto ("Me
 git config user.email "" - Configura o e-mail para utilizar o repositório do GitHub ("e-mail do GitHub")
 git log - Mostra o que foi feito / git log --oneline - Mostra os commits em uma linha só 
 git --ammend -m "" - Corrigi a mensagem do ultimo commit localmente
+
+estoy loco
