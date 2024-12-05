@@ -7,4 +7,5 @@ git config user.email "" - Configura o e-mail para utilizar o repositório do Gi
 git log - Mostra o que foi feito / git log --oneline - Mostra os commits em uma linha só 
 git --ammend -m "" - Corrigi a mensagem do ultimo commit localmente
 
-estoy loco
+git branch - Mostra a branch em que você está
+git switch -c add-receita-bolo - Cria e entra na branch
